@@ -331,11 +331,6 @@ input::placeholder { color: #a4a2a1; }
   .container {
     max-width: 750px;
   }
-
-  .main-section {
-    max-width: 550px;
-  }
-
   .auth-image {
     float: none;
     display: block;
@@ -349,7 +344,7 @@ input::placeholder { color: #a4a2a1; }
   }
 
   .sidebar {
-    max-width: 550px;
+    max-width: 525px;
     margin-bottom: 40px;
   }
 
@@ -376,7 +371,7 @@ input::placeholder { color: #a4a2a1; }
 
   #main-container {
     padding-top: 0px;
-    max-width: 550px;
+    max-width: 525px;
   }
 }
 
