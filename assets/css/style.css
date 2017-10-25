@@ -44,6 +44,7 @@ nav a:hover {
 .work a:hover {
   cursor: pointer;
   opacity: 0.8;
+  transition:all 0.3s ease;
 }
 
 
@@ -114,6 +115,7 @@ h3 {
   text-align: center;
   text-decoration: none;
   background: #4aaaa5;
+  transition:all 0.3s ease;
 }
 
 nav {
@@ -183,6 +185,7 @@ h3,
 .social-image {
   width: 62px;
   height: 62px;
+  transition:all 0.3s ease;
 }
 
 /* main */
@@ -282,9 +285,12 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
+  transition:all 0.3s ease;
 }
 
 input::placeholder { color: #a4a2a1; }
+
+
 
 @media screen and (max-width: 980px) {
   /* The body's bg color will be #333 */
