@@ -38,7 +38,7 @@ nav a:hover {
 
 .social-image:hover {
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.8; 
 }
 
 .work a:hover {
@@ -286,7 +286,7 @@ input[type=submit] {
 
 input::placeholder { color: #a4a2a1; }
 
-@media screen and (min-width: 769px) and (max-width: 980px) {
+@media screen and (max-width: 980px) {
   /* The body's bg color will be #333 */
 
   .container {
@@ -303,7 +303,7 @@ input::placeholder { color: #a4a2a1; }
   }
 }
 
-@media screen and (min-width: 641px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   /* The body's bg color will be #333 */
   
   .container {
